@@ -8,5 +8,15 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Tecnologias utilizadas
 
-## Backlog
+## Backlog do Produto
 
+- [ ] Gerenciar arquivos
+- [ ] Gerenciar anotações / artigos
+- [ ] Gerenciar exercícios / revisões
+- [ ] Gerenciar categorias / tags
+- [ ] Exibir arquivos em diferentes formatos
+- [ ] Adicionar bookmarks e destacar trechos
+- [ ] Sistema de busca com filtros avançados
+- [ ] Sistema de busca 'full-text'
+- [ ] Compartilhamento de documentos
+- [ ] Grupos de estudo com discussões
