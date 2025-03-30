@@ -1,1 +1,3 @@
 # Trabalho_Engenharia_Software
+
+A aplicação em desenvolvimento tem como objetivo fornecer uma plataforma para a organização de arquivos de diversos formatos. Os usuários poderão fazer upload de seus arquivos, categorizá-los por modulos e acessar conteúdos de forma intuitiva. Entre as principais funcionalidades, a plataforma permitirá o upload de arquivos de diferentes formatos. Além disso, será possível adicionar bookmarks em páginas de interesse em pdfs e fazer anotações na organização. Caso desejem, os usuários poderão compartilhar seus materiais com outras pessoas, tornando a plataforma um ambiente colaborativo para organização e estudo.
