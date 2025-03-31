@@ -33,14 +33,50 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Primeira Sprint
 
+### Iniciais
+A configuração inicial do projeto
+- [ ] Criar o projeto node, instalar as libs sqlite3, express, handlebars, configurar typescript
+- [ ] Criar um layout inicial em HTML com as libs
+- [ ] Criar uma página inicial usando o layout
+- [ ] Criar um backend inicial com código para migrações do banco de dados
+
+
 ### [Gerenciar Sessões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
 O usuário deve poder se identificar para ver seus documentos.
+- [ ] Atribuir um cookie de sessão para cada usuário que acessar o site
+- [ ] Associar sessões a usuários
+- [ ] Criar uma página de login
+- [ ] Criar um endpoint de login
+- [ ] Criar uma página de registro
+- [ ] Criar um endpoint de registro
+- [ ] Criar um endpoint de logout
 
 ### [Gerenciar Arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
 O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e removê-los.
+- [ ] Exibir arquivos do usuário na página principal
+- [ ] Criar uma página para upload de arquivo
+- [ ] Criar um endpoint para upload de arquivo
+- [ ] Criar uma página para edição de arquivo
+- [ ] Criar um endpoint para edição de arquivo
+- [ ] Criar um endpoint para remoção de arquivo
 
 ### [Gerenciar Exercícios](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
 O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
+- [ ] Exibir exercícios do usuário na página principal
+- [ ] Criar uma página para criação de exercício
+- [ ] Criar um endpoint para criação de exercício
+- [ ] Criar uma página para edição de exercício
+- [ ] Criar um endpoint para edição de exercício
+- [ ] Criar uma página para realização de exercício
+- [ ] Criar uma página para resultado de exercício
+- [ ] Criar um endpoint para resultado de exercício
+- [ ] Criar um endpoint para remoção de exercício
 
 ### [Gerenciar Anotações](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
 O usuário deve poder criar anotações, editá-las e removê-las.
+- [ ] Exibir anotações do usuário na página principal
+- [ ] Criar uma página para criação de anotação
+- [ ] Criar um endpoint para criação de anotação
+- [ ] Criar uma página para edição de anotação
+- [ ] Criar um endpoint para edição de anotação
+- [ ] Criar um endpoint para remoção de anotação
