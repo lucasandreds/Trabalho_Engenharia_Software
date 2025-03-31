@@ -3,7 +3,8 @@ import { Request } from 'express'
 import path from 'path'
 import hbs from 'hbs'
 import { cwd } from 'process';
-import('./migrations')
+
+await import('./migrations');
 
 const app = express();
 // Uma porta aleatória para evitar conflitos
