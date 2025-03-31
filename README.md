@@ -6,7 +6,17 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Membros da Equipe
 
+- Lucas André dos Santos (2022093032) [ FrontEnd ] @lucasandreds 
+- Mateus Vitor Mota Vasconcelos (2022043280) [ Fullstack ] @mateusvmv
+- Pedro loures Alzamora (2020006949) [ BackEnd ] @pedro-loures
+- Rainer Menezes Vieira Silva (2017068785) [ Fullstack ] @RainerM10
+
 ## Tecnologias utilizadas
+
+- Linguagem: JavaScript
+- Frameworks: Express.js e Pico.css
+- Bibliotecas importantes: Handlebars e HTMX
+- Banco de dados: SQLite
 
 ## Backlog do Produto
 
