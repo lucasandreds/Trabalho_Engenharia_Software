@@ -1,4 +1,4 @@
-# Trabalho_Engenharia_Software
+# Colinha Estudantil: Plataforma de Estudo e Organização de Arquivos
 
 ## Objetivo
 
@@ -20,10 +20,10 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Backlog do Produto
 
-- [ ] Como usuário, eu gostaria de ter uma conta pessoal
 - [ ] Como usuário, eu gostaria de gerenciar arquivos
 - [ ] Como usuário, eu gostaria de criar anotações e artigos
 - [ ] Como usuário, eu gostaria de criar exercícios e revisões
+- [ ] Como usuário, eu gostaria de ter uma conta pessoal
 - [ ] Como usuário, eu gostaria de categorizar os documentos e buscar por categoria
 - [ ] Como usuário, eu gostaria de ver arquivos em diferentes formatos
 - [ ] Como usuário, eu gostaria de adicionar bookmarks e destacar trechos
@@ -42,35 +42,25 @@ A configuração inicial do projeto
 - [ ] Criar um backend inicial com código para migrações do banco de dados (Mateus)
 
 
-### [Como usuário, eu gostaria de ter uma conta pessoal](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
-O usuário deve poder se identificar para ver seus documentos.
-- [ ] Atribuir um cookie de sessão para cada usuário que acessar o site
-- [ ] Associar sessões a usuários
-- [ ] Criar uma página de login
-- [ ] Criar um endpoint de login
-- [ ] Criar uma página de registro
-- [ ] Criar um endpoint de registro
-- [ ] Criar um endpoint de logout
-
-### [Como usuário, eu gostaria de gerenciar arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
+### [#1 Como usuário, eu gostaria de gerenciar arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
 O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e removê-los.
-- [ ] Exibir arquivos do usuário na página principal
-- [ ] Criar uma página para upload de arquivo
-- [ ] Criar um endpoint para upload de arquivo
-- [ ] Criar uma página para edição de arquivo
-- [ ] Criar um endpoint para edição de arquivo
-- [ ] Criar um endpoint para remoção de arquivo
+- [ ] Exibir arquivos do usuário na página principal (Lucas)
+- [ ] Criar uma página para upload de arquivo (Lucas)
+- [ ] Criar um endpoint para upload de arquivo (Lucas)
+- [ ] Criar uma página para edição de arquivo (Lucas)
+- [ ] Criar um endpoint para edição de arquivo (Lucas)
+- [ ] Criar um endpoint para remoção de arquivo (Lucas)
 
-### [Como usuário, eu gostaria de criar anotações e artigos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
+### [#2 Como usuário, eu gostaria de criar anotações e artigos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
 O usuário deve poder criar anotações, editá-las e removê-las.
-- [ ] Exibir anotações do usuário na página principal
-- [ ] Criar uma página para criação de anotação
-- [ ] Criar um endpoint para criação de anotação
-- [ ] Criar uma página para edição de anotação
-- [ ] Criar um endpoint para edição de anotação
-- [ ] Criar um endpoint para remoção de anotação
+- [ ] Exibir anotações do usuário na página principal (Rainer)
+- [ ] Criar uma página para criação de anotação (Rainer)
+- [ ] Criar um endpoint para criação de anotação (Rainer)
+- [ ] Criar uma página para edição de anotação (Rainer)
+- [ ] Criar um endpoint para edição de anotação (Rainer)
+- [ ] Criar um endpoint para remoção de anotação (Rainer)
 
-### [Como usuário, eu gostaria de criar exercícios e revisões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
+### [#3 Como usuário, eu gostaria de criar exercícios e revisões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
 O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
 - [ ] Exibir exercícios do usuário na página principal (Mateus)
 - [ ] Criar uma página para criação de exercício (Mateus)
@@ -81,3 +71,13 @@ O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
 - [ ] Criar uma página para resultado de exercício (Mateus)
 - [ ] Criar um endpoint para resultado de exercício (Mateus)
 - [ ] Criar um endpoint para remoção de exercício (Mateus)
+
+### [#4 Como usuário, eu gostaria de ter uma conta pessoal](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
+O usuário deve poder se identificar para ver seus documentos.
+- [ ] Atribuir um cookie de sessão para cada usuário que acessar o site (Pedro)
+- [ ] Associar sessões a usuários (Pedro)
+- [ ] Criar uma página de login (Pedro)
+- [ ] Criar um endpoint de login (Pedro)
+- [ ] Criar uma página de registro (Pedro)
+- [ ] Criar um endpoint de registro (Pedro)
+- [ ] Criar um endpoint de logout (Pedro)
