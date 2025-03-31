@@ -10,13 +10,27 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Backlog do Produto
 
-- [ ] Gerenciar arquivos
-- [ ] Gerenciar anotações / artigos
-- [ ] Gerenciar exercícios / revisões
-- [ ] Gerenciar categorias / tags
-- [ ] Exibir arquivos em diferentes formatos
-- [ ] Adicionar bookmarks e destacar trechos
-- [ ] Sistema de busca com filtros avançados
-- [ ] Sistema de busca 'full-text'
-- [ ] Compartilhamento de documentos
-- [ ] Grupos de estudo com discussões
+- [ ] Como usuário, eu gostaria de gerenciar arquivos
+- [ ] Como usuário, eu gostaria de criar anotações e artigos
+- [ ] Como usuário, eu gostaria de criar exercícios e revisões
+- [ ] Como usuário, eu gostaria de categorizar os documentos e buscar por categoria
+- [ ] Como usuário, eu gostaria de ver arquivos em diferentes formatos
+- [ ] Como usuário, eu gostaria de adicionar bookmarks e destacar trechos
+- [ ] Como usuário, eu gostaria de fazer buscas com vários filtros
+- [ ] Como usuário, eu gostaria de fazer buscas no conteúdo dos documentos
+- [ ] Como usuário, eu gostaria de compartilhar meus documentos
+- [ ] Como usuário, eu gostaria de fazer grupos de estudo com discussões
+
+# Primeira Sprint
+
+## [Gerenciar Sessões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
+O usuário deve poder se identificar para ver seus documentos.
+
+## [Gerenciar Arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
+O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e removê-los.
+
+## [Gerenciar Exercícios](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
+O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
+
+## [Gerenciar Anotações](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
+O usuário deve poder criar anotações, editá-las e removê-las.
