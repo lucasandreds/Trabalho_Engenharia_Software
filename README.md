@@ -20,6 +20,7 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 
 ## Backlog do Produto
 
+- [ ] Como usuário, eu gostaria de ter uma conta pessoal
 - [ ] Como usuário, eu gostaria de gerenciar arquivos
 - [ ] Como usuário, eu gostaria de criar anotações e artigos
 - [ ] Como usuário, eu gostaria de criar exercícios e revisões
@@ -41,7 +42,7 @@ A configuração inicial do projeto
 - [ ] Criar um backend inicial com código para migrações do banco de dados
 
 
-### [Gerenciar Sessões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
+### [Como usuário, eu gostaria de ter uma conta pessoal](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
 O usuário deve poder se identificar para ver seus documentos.
 - [ ] Atribuir um cookie de sessão para cada usuário que acessar o site
 - [ ] Associar sessões a usuários
@@ -51,7 +52,7 @@ O usuário deve poder se identificar para ver seus documentos.
 - [ ] Criar um endpoint de registro
 - [ ] Criar um endpoint de logout
 
-### [Gerenciar Arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
+### [Como usuário, eu gostaria de gerenciar arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
 O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e removê-los.
 - [ ] Exibir arquivos do usuário na página principal
 - [ ] Criar uma página para upload de arquivo
@@ -60,7 +61,16 @@ O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e remov�
 - [ ] Criar um endpoint para edição de arquivo
 - [ ] Criar um endpoint para remoção de arquivo
 
-### [Gerenciar Exercícios](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
+### [Como usuário, eu gostaria de criar anotações e artigos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
+O usuário deve poder criar anotações, editá-las e removê-las.
+- [ ] Exibir anotações do usuário na página principal
+- [ ] Criar uma página para criação de anotação
+- [ ] Criar um endpoint para criação de anotação
+- [ ] Criar uma página para edição de anotação
+- [ ] Criar um endpoint para edição de anotação
+- [ ] Criar um endpoint para remoção de anotação
+
+### [Como usuário, eu gostaria de criar exercícios e revisões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
 O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
 - [ ] Exibir exercícios do usuário na página principal
 - [ ] Criar uma página para criação de exercício
@@ -71,12 +81,3 @@ O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
 - [ ] Criar uma página para resultado de exercício
 - [ ] Criar um endpoint para resultado de exercício
 - [ ] Criar um endpoint para remoção de exercício
-
-### [Gerenciar Anotações](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
-O usuário deve poder criar anotações, editá-las e removê-las.
-- [ ] Exibir anotações do usuário na página principal
-- [ ] Criar uma página para criação de anotação
-- [ ] Criar um endpoint para criação de anotação
-- [ ] Criar uma página para edição de anotação
-- [ ] Criar um endpoint para edição de anotação
-- [ ] Criar um endpoint para remoção de anotação
