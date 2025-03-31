@@ -21,16 +21,16 @@ A aplicação que será desenvolvida tem como objetivo fornecer uma plataforma d
 - [ ] Como usuário, eu gostaria de compartilhar meus documentos
 - [ ] Como usuário, eu gostaria de fazer grupos de estudo com discussões
 
-# Primeira Sprint
+## Primeira Sprint
 
-## [Gerenciar Sessões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
+### [Gerenciar Sessões](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/2)
 O usuário deve poder se identificar para ver seus documentos.
 
-## [Gerenciar Arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
+### [Gerenciar Arquivos](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/1)
 O usuário deve poder gerenciar arquivos, fazer upload, vê-los, baixar e removê-los.
 
-## [Gerenciar Exercícios](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
+### [Gerenciar Exercícios](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/3)
 O usuário deve poder criar e fazer exercícios, editá-los e removê-los.
 
-## [Gerenciar Anotações](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
+### [Gerenciar Anotações](https://github.com/lucasandreds/Trabalho_Engenharia_Software/issues/4)
 O usuário deve poder criar anotações, editá-las e removê-las.
